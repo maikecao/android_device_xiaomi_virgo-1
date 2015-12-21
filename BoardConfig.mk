@@ -49,7 +49,7 @@ TARGET_RECOVERY_QCOM_RTC_FIX := true
 BOARD_SUPPRESS_SECURE_ERASE := true
 TW_EXTERNAL_STORAGE_PATH := "/usb-otg"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "usb-otg"
-
+TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 
 #cofface theme
-TW_CUSTOM_THEME := device/xiaomi/hermes/recovery/twres
+#TW_CUSTOM_THEME := device/xiaomi/hermes/recovery/twres
